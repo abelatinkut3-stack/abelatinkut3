@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Abel]! 👋
 
 I am a student passionate about engineering, advanced mathematics, and software development. 
 
